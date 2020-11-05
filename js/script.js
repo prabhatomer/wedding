@@ -4,8 +4,11 @@ $(document).ready(function(){
 
 	/* ---- Countdown timer ---- */
 
+	//	$('#counter').countdown({
+//		timestamp : (new Date()).getTime() + 08*10*60*60*1000
+//	});
 	$('#counter').countdown({
-		timestamp : (new Date()).getTime() + 08*10*60*60*1000
+		timestamp : (new Date(2021, 04, 22, 00, 00))
 	});
 
 
