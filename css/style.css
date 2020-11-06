@@ -2045,6 +2045,9 @@ h4.modal-title {
 .next{
 	display: none;
 }
+.hide{
+	display: none;
+}
 
 
 
