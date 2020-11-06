@@ -2039,7 +2039,12 @@ h4.modal-title {
 .callbacks1_s4{
 	display: none;
 }
-
+.prev{
+	display: none;
+}
+.next{
+	display: none;
+}
 
 
 
